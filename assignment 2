@@ -1,0 +1,144 @@
+<html>
+<head>
+<title>Sahib</title>
+</head>
+
+<body>
+
+<div style="background-color:pink;font-size:15px;width:1040px">
+<h1>Emergency Contact Info</h1>
+</div>
+<table align= "left" style="width:30%;height:70%">
+<tr>
+<td><font-size="3px" color="balck"><b>First Name</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+<tr>
+<td><font-size="3px" color="balck"><b>Last Name</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+<tr>
+<td><font-size="3px" color="balck"><b>Gender</b></font><td>
+<td><select style="width:244px">
+<option value="male">male</option>
+<option value="female">female</option></td>
+</tr>
+<tr>
+<td><font-size="3px" color="balck"><b>Date of Birth</b></font><td>
+<td><input type="text" name="text1" size="30">[dd-mm-yyyy]</td>
+</tr>
+<tr>
+<td><font-size="3px" color="balck"><u>Medical Information</u></font><td>
+</tr>
+<tr>
+<td><font-size="3px" color="balck"><b>Hospital Preference</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>Insurance Company</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>Hospital Preference</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>Policy Number</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+
+<tr>
+<td><font-size="3px" color="balck"><b>Physician's Name</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>Phone Number</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+
+<tr>
+<td><font-size="3px" color="balck"><b>Allergies(if any)</b></font><td>
+<td><textarea name="comments" rows="6" cols="32"></textarea></td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table align ="centre" align= "left" style="width:30%;height:55%">
+<tr>
+<td><font-size="3px" color="balck"><u>Emergency contact Info</u></font><td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>Name</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>Relationship</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>Address</b></font><td>
+<td><textarea name="comments" rows="6" cols="32"></textarea></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>City</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>State</b></font><td>
+<td><select style="width:244px">   <option value="select">-select</option>   <option value="BC">BC</option> <option value="ontario">ontario</option></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>Country</b></font><td>
+<td><select style="width:244px">   <option value="select">-select</option>
+<option>Canada</option> <option>India</option> <option>America</option> <option>China</option></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>Home Phone</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+<tr>
+<td><font-size="3px" color="balck"><b>Work Phone</b></font><td>
+<td><input type="text" name="text1" size="30"></td>
+</tr>
+
+
+
+
+</table>
+
+
+
+
+
+
+</table>
+</body>
+</html>
